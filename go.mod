@@ -1,4 +1,4 @@
-module github.com/oleiade/reflections
+module github.com/lagren/reflections
 
 go 1.15
 
